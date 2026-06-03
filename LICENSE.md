@@ -1,4 +1,4 @@
-# 
+# Código aberto dex liquidity bot scripts para Mac OS | Leve dex liquidity bot scripts para PC Windows. Com proteção MEV e ordens take-profit — otimizado para máximo desempenho em cada plataforma.
 
 
 
